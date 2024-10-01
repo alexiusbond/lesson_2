@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // Hi sensei
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите число: ");
         int number = sc.nextInt();
@@ -19,5 +20,6 @@ public class Main {
                 System.out.println("Число неизвестно");
                 break;
         }
+        // End of program
     }
 }
