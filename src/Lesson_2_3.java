@@ -14,6 +14,7 @@ public class Lesson_2_3 {
 
         calculatePerimeter("Аудитория 4", 4.5f, 5.0f);
         calculatePerimeter("Кухня", 4, 6.5f);
+        // Hi Sensei
 
         int areaOfAuditory4 = calculateArea(4.5f, 5.0f);
         int areaOfKitchen = calculateArea(4, 6.5f);
